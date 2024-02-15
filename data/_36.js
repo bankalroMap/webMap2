@@ -1,0 +1,1 @@
+var json__36 = {"type":"FeatureCollection","name":"_36","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","พื้�":"ทรบ.ท่าพรุตอนบน"},"geometry":{"type":"Point","coordinates":[102.004195962472181,6.292997748107759]}}]}

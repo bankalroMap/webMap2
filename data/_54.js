@@ -1,0 +1,1 @@
+var json__54 = {"type":"FeatureCollection","name":"_54","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","พื้�":"ปตร.ตอนล่าง"},"geometry":{"type":"Point","coordinates":[102.029275556365633,6.24911147835265]}}]}

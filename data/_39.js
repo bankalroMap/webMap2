@@ -1,0 +1,1 @@
+var json__39 = {"type":"FeatureCollection","name":"_39","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","พื้�":"ทรบ.กลางคลองบางเตย"},"geometry":{"type":"Point","coordinates":[101.973829592716413,6.235734141297693]}}]}
